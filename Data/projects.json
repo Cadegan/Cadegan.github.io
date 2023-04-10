@@ -148,6 +148,18 @@
         "Design an application with the 'MUI' library",
         "Managing forms with the 'React Hook Form' library"
       ]
+    },{
+      "id": "13",
+      "title": "Weather app",
+      "description": "Neumorphism Weather App",
+      "picture": "https://cadegan.github.io/portfolio/images/13.jpg",
+      "gitHub": "https://github.com/Cadegan/weather-app",
+      "demo": "https://Cadegan.github.io/weather-app",
+      "details": [
+        "Interacting with a weather API",
+        "Programming in React and Typescript",
+        "Design with Tailwindcss library"
+      ]
     }
   ]
 }
